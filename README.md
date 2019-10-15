@@ -10,3 +10,5 @@ The PCB design is done in CircuitMaker, and can be forked on the [CircuitMaker p
 * *PDF* document of schematic
 * *.asc* LTSpice circuit simulation
 * *STEP* exported 3D model
+
+The panel design is done in Autodesk Fusion 360, and can be found [here](https://a360.co/2qc5qi8).
