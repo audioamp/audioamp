@@ -1,0 +1,20 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~3083 audio amp.PrjPcb|ReportField=ProjectFullPath~C:\Users\optic\AppData\Local\Temp\Releases\Snapshot\1\3083 audio amp.PrjPcb|ReportField=Title~BOM_PartType For Project [3083 audio amp.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~31|ReportField=ReportTime~12:44:40 PM|ReportField=ReportDate~10/6/2019|ReportField=ReportDateTime~10/6/2019 12:44:40 PM|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~3083 audio amp.PrjPcb|ReportField=DataSourceFullPath~C:\Users\optic\AppData\Local\Temp\Releases\Snapshot\1\3083 audio amp.PrjPcb
+470uF|Cap Aluminum 33uF 100V 20% (10 X 25mm) Axial 3.4 Ohm 140mA 4000h 125°C T/R|C1|Capacitor|CMP-76c7be02e5fba900-1|1
+1uF cer|Capacitor; Ceramic; Cap 1.00uF; Tol 10%; Radial; Vol-Rtg 50V|C2, C4, C5|PCB-19304320-1|C330C105K5R5TA|3
+47uF electrolytic|Cap Aluminum Lytic 47uF 50V 20% (6.3 X 11.2mm) Radial 2.5mm 260mA 1000h 105C Automotive Bulk|C3, C6|PCB-bs2nfpedd8vjo8odb39w-1|EEU-FC1H470|2
+GRN|5mm Lens, One Position CBI ; Emitting Color Green with Green Diffused Lens|D1|PCBComponent_1|XVB1LUG50D|1
+CUI PJ-102A|FolioGadgets DC Jack|J1|PCBComponent_1 - duplicate|1352|1
+Molex 73100-0105|50 Ohms, BNC Right-Angle PCB Jack Receptacle, Nickel Plated Zinc Alloy Body, Low Profile|J2, J3|PCB-581953-1|73100-0105|2
+Switchcraft 35RAPC4BHN2|CONN JACK STEREO 3.5MM HORIZON|J4|PCB-329508-1|35RAPC4BHN2|1
+Multicomp 24.243.1|Banana Test Connector, 4mm, Jack, PCB Mount, 20 A, 30 V, Silver Plated Contacts, Red|J5|PCB-1keg917tfggg2k36z9zw-1|24.243.1|1
+Multicomp 24.243.2|Banana Test Connector, 4mm, Jack, PCB Mount, 20 A, 30 V, Silver Plated Contacts, Black|J6|PCB-20399855-1|24.243.2|1
+BD139|BD139 Series NPN 80 V 1.5 A Complementary Low Voltage Transistor - SOT-32|Q1|PCB-vxsgokorrilsux2zr6a3-1|STMicroelectronics BD139-4|1
+BD140|Plastic Medium-Power Silicon PNP Transistor, 3-Pin TO-225, Bulk Box|Q2|ONSC-TO-225-3-77-09|BD140-3|1
+2N2222A|Transistor, NPN, 40v, To-92|Q3|PCB-il5alzs33b9y8p1mx0ke-1|P2N2222AG|1
+1k|Through Hole Carbon Film Resistor, CFR Series, 10 kohm, 500 mW, - 5%, 350 V, Axial Leaded|R1, R5, R11, R12, R13|PCB-ufx52wqpb97u1085hkka-1|CFR50J10K|5
+100k|Through Hole Carbon Film Resistor, CFR Series, 10 kohm, 500 mW, - 5%, 350 V, Axial Leaded|R2, R4, R10|PCB-ufx52wqpb97u1085hkka-1|CFR50J10K|3
+75k|Through Hole Carbon Film Resistor, CFR Series, 10 kohm, 500 mW, - 5%, 350 V, Axial Leaded|R3|PCB-ufx52wqpb97u1085hkka-1|CFR50J10K|1
+2k|Through Hole Carbon Film Resistor, CFR Series, 10 kohm, 500 mW, - 5%, 350 V, Axial Leaded|R6|PCB-ufx52wqpb97u1085hkka-1|CFR50J10K|1
+10k|Through Hole Carbon Film Resistor, CFR Series, 10 kohm, 500 mW, - 5%, 350 V, Axial Leaded|R7, R9|PCB-ufx52wqpb97u1085hkka-1|CFR50J10K|2
+100k pot|Res Conductive Plastic POT 50K Ohm 20% 1/4W 1Turn 3.18mm Pin Panel Mount/Through Hole|R8|PCB-urdemwrt71ubtqm2k8m7-1|CMP-1209584-8|1
+LF411CN|Low Offset, Low Drift JFET Input Operational Amplifier, 8-pin MDIP|U1, U2|N08E|LF411CN|2
